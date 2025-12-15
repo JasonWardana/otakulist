@@ -11,10 +11,10 @@
     "@phosphor-icons/react": "^2.1.10",
     "@prisma/client": "^6.19.0",
     "@tailwindcss/postcss": "^4.1.17",
-    "next": "16.0.3",
+    "next": "^16.0.10",
     "next-auth": "^4.24.13",
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "react-youtube": "^10.1.0"
   },
   "devDependencies": {
